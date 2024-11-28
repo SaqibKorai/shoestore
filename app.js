@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { image: 'images/AIR+JORDAN+1+LOW.jfif', name: 'Air Jordan 1 Low', category: 'air jordan', price: '$135' },
         { image: 'images/AIR+JORDAN+1+MID.jfif', name: 'Air Jordan 1 Mid SE', category: 'air jordan', price: '$135' },
         { image: 'images/NIKE+DUNK+LOW+RETRO.jfif', name: 'Nike Dunk Low Retro', category: 'dunk', price: '$52.97' },
-        { image: 'images/NIKE+DUNK+LOW+RETRO (1).jfif', name: 'Nike Dunk Low ', category: 'dunk', price: '$79.97' },
+        { image: 'images/NIKEDUNK.jfif', name: 'Nike Dunk Low ', category: 'dunk', price: '$79.97' },
         { image: 'images/AIR+VAPORMAX+PLUS.jfif', name: 'Nike Air VaporMax Plus', category: 'Air Max', price: '$180.97' },
         { image: 'images/AIR+VAPORMAX+2023+FK.jfif', name: 'Nike Air VaporMax 2023', category: 'Air Max', price: '$180.97' },
         { image: 'images/LEBRON+XXII+QS.jfif', name: 'LeBron XXII "Currency"', category: 'LeBron James', price: '$180' },
